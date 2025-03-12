@@ -1,4 +1,3 @@
-
 # Fruit Ninja
 
 ## Introduction
@@ -31,5 +30,3 @@ This game was created by Emilio Aranda, but the original fruit ninja was made by
 
 # VIDEO EXPLENATION
 https://youtu.be/DbMANDxBOLk
-
-# sem-2-fruit
